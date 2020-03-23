@@ -1,0 +1,10 @@
+C:\Users\Furkan\Desktop\Doviz_ofis\Doviz_ofis\bin\Debug\Doviz_ofis.exe.config
+C:\Users\Furkan\Desktop\Doviz_ofis\Doviz_ofis\bin\Debug\Doviz_ofis.exe
+C:\Users\Furkan\Desktop\Doviz_ofis\Doviz_ofis\bin\Debug\Doviz_ofis.pdb
+C:\Users\Furkan\Desktop\Doviz_ofis\Doviz_ofis\obj\Debug\Doviz_ofis.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Doviz_ofis\Doviz_ofis\obj\Debug\Doviz_ofis.Form1.resources
+C:\Users\Furkan\Desktop\Doviz_ofis\Doviz_ofis\obj\Debug\Doviz_ofis.Properties.Resources.resources
+C:\Users\Furkan\Desktop\Doviz_ofis\Doviz_ofis\obj\Debug\Doviz_ofis.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\Doviz_ofis\Doviz_ofis\obj\Debug\Doviz_ofis.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Doviz_ofis\Doviz_ofis\obj\Debug\Doviz_ofis.exe
+C:\Users\Furkan\Desktop\Doviz_ofis\Doviz_ofis\obj\Debug\Doviz_ofis.pdb
